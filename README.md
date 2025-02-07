@@ -1,7 +1,23 @@
-## Hi there 👋
+## Hello I'm Maame 👋
 
-<!--
-**maame12/maame12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+## Objective💡
+
+Mastering Cybersecurity one project at a time.
+
+
+## Security ToolBox🧰
+| Tools                           |    Project                                   |
+|-----------------------------    |----------------------------------------------|
+| NMAP                            | TCP and UDP Port Scanning                    |
+
+## Skills
+
+
+
+
+maame12/maame12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
